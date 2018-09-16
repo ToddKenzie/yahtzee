@@ -1,12 +1,12 @@
-#Code Kata: Yahtzee
+# Code Kata: Yahtzee
 
 **Practicing TDD Katas with the game *Yahtzee***
 
-##Objectives
+## Objectives
 
 Recreate the Game Yahtzee in code using Test-Driven Design Principles
 
-###Game Rules
+### Game Rules
 
 Player rolls 5 dice.  May make up to 3 rounds of rerolls, but must keep the final result regardless of roll.  Player then chooses a scoring method for his die roll.  Player will use all methods by end of game, and can only use each method once.
 
